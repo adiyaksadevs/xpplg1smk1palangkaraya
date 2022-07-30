@@ -1,4 +1,5 @@
 # X PPLG 1 SMK 1 PALANGKARAYA
+![Screenshot_2022-07-25-22-25-27-28_6012fa4d4ddec268fc5c7112cbb265e7-removebg](https://user-images.githubusercontent.com/110284922/181905371-dc21d0a5-f364-4db6-88a3-94a833762d03.png)
 Website Kelas X PPLG 1 Source Code 
 Kota = Palangkaraya
 
