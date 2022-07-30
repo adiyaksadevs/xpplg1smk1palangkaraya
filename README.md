@@ -8,11 +8,11 @@ Source Code Untuk Website Kelas
 Code ini masih belum stable kemungkinan ada bug atau front end nya jelek awokaowkowk
 
 Team Devpeloment Website : 
-- Muhammad Adiyaksa ( BACKEND / SERVER SIDE )
-- Evan ( FRONT END / UI UX )
-- Rizky ( TESTING WEBSITE / FRONT END (2) )
+- Muhammad Adiyaksa ( BACKEND / SERVER SIDE / Management Team )
+- Evan ( FRONT END / UI UX / Management Front End )
+- Rizky ( TESTING WEBSITE / FRONT END (2))
 - Hilal (  HTML / DESIGN / FRONT END (3)
-- Vicky ( Fotografer / KETUA KELAS / INSPIRASI )
+- Vicky ( Fotografer / KETUA KELAS )
 
 Support :
 - Semua Siswa / Siswi X PPLG 1
