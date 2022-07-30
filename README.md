@@ -12,7 +12,12 @@ Team Devpeloment Website :
 - Evan ( FRONT END / UI UX )
 - Rizky ( TESTING WEBSITE / FRONT END (2) )
 - Hilal (  HTML / DESIGN / FRONT END (3)
-- Vicky ( FOTO / KETUA KELAS )
+- Vicky ( Fotografer / KETUA KELAS / INSPIRASI )
+
+Support :
+- Semua Siswa / Siswi X PPLG 1
+- Alva Store ( VPS Seller )
+- Orang Tua 
 
 Using :
 - Javascript
