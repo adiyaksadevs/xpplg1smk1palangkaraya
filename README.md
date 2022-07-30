@@ -1,6 +1,5 @@
 # X PPLG 1 SMK 1 PALANGKARAYA
 Website Kelas X PPLG 1 Source Code 
-
 Kota = Palangkaraya
 
 Maklum kami masih kelas 10 x pplg jadi masih belum rapi web nya wkwkw
