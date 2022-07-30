@@ -8,7 +8,7 @@ Source Code Untuk Website Kelas
 Code ini masih belum stable kemungkinan ada bug atau front end nya jelek awokaowkowk
 
 Team Devpeloment Website : 
-- Muhammad Adiyaksa ( BACKEND / )
+- Muhammad Adiyaksa ( BACKEND / SERVER SIDE )
 - Evan ( FRONT END / UI UX )
 - Rizky ( TESTING WEBSITE / FRONT END (2) )
 - Hilal (  HTML / DESIGN / FRONT END (3)
