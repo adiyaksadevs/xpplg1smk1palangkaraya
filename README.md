@@ -22,6 +22,7 @@ Support :
 - Orang Tua 
 
 Using :
+- Jquery
 - Javascript
 - PHP NATIVE
 - HTML 
