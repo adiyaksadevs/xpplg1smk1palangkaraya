@@ -13,6 +13,8 @@ Team Devpeloment Website :
 - Rizky ( TESTING WEBSITE / FRONT END 2 )
 - Hilal (  HTML / DESIGN / FRONT END 3)
 - Vicky ( Fotografer / KETUA KELAS )
+- Rauf Shiddiq ( Front End Template :v)
+- Satya Cipta ( Backend 2 )
 
 Support :
 - Semua Siswa / Siswi X PPLG 1
