@@ -20,7 +20,6 @@ Support :
 - Semua Siswa / Siswi X PPLG 1
 - Alva Store ( VPS Seller )
 - Orang Tua 
-- Allah SWT
 
 Using :
 - Javascript
